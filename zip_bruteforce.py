@@ -42,6 +42,8 @@ for word in wordlist:
         print('[-] Wrong password : {}'.format(pwd.decode("utf-8")))
 
 ##Coder : luckymonkey666
+##Python3.6.4
+##Last edit : 19/04/18
     
 
 
